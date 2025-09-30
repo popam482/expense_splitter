@@ -74,3 +74,19 @@ Group image
 
 <img width="1094" height="653" alt="image" src="https://github.com/user-attachments/assets/f34d8423-4a42-4b2c-aa77-d21bfc6b817f" />
 
+## Test accounts
+
+Use these test accounts to log in and explore the application without creating new users or groups.
+
+These are demo/test credentials only. They contain no real personal data. Do not reuse these passwords on any real accounts or services.
+
+user1-U$er123
+
+user2-U$er123
+
+user3-U$er123
+
+user4-U$er123
+
+user5-U$er123
+
