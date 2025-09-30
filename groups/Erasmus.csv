@@ -1,0 +1,5 @@
+user2;hotel;1200.0;user1,user3
+user3;food;470.0;user1,user2
+user1;taxi rides;160.0;
+user1;taxi rides;220.0;user2,user3
+user2;gifts ;180.0;user1,user3

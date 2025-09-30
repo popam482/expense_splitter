@@ -1,0 +1,55 @@
+.root{
+	-fx-background-color: linear-gradient(to right, #A8E6A1, #A0D8F2);
+}
+
+#titleLabel{
+	-fx-font-size: 32px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-effect: dropshadow( gaussian , black , 5 , 0.7 , 0 , 0 );
+}
+
+#scrollPane {
+    -fx-background-color: white;         
+    -fx-background-radius: 20;           
+    -fx-border-radius: 20;               
+    -fx-border-color: #999797;          
+    -fx-effect: dropshadow(gaussian, #999797, 5, 0.7, 0, 0);
+    -fx-padding: 5;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical {
+    -fx-background-color: transparent;
+    -fx-background-radius: 20;
+    -fx-background-insets: 0;
+}
+
+
+.card {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 12;
+    -fx-padding: 12;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.1), 8, 0, 0, 2);
+    -fx-spacing: 8;
+}
+
+
+.group-title {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+.button {
+    -fx-background-color: linear-gradient(to right, #07f747, #07f7eb);
+    -fx-text-fill: black;
+    -fx-background-radius: 20px;
+    -fx-padding: 8px 18px;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,2.5), 8, 0, 0, 2);
+    -fx-font-weight: bold; 
+	-fx-min-width: 100;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to left, #07f747, #07f7eb);
+}

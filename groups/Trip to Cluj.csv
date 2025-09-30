@@ -1,0 +1,5 @@
+user1;pizza;120.0;user2,user3,user4
+user2;museum entries;425.0;user1,user3,user4
+user3;gas;500.0;user1,user2,user4
+user4;beers;80.0;user1,user3
+user1;zoo tickets;120.0;user4,user3,user2
